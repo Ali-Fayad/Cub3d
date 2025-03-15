@@ -98,9 +98,8 @@ Cub3D/
 | S       | Move backward        |
 | A       | Strafe left          |
 | D       | Strafe right         |
-| ←       | Rotate left          |
-| →       | Rotate right         |
-| Mouse   | Rotate view          |
+| ←-Mouse | Rotate left          |
+| →-Mouse | Rotate right         |
 | ESC     | Exit the game        |
 
 ## 🗺 Map File Format
